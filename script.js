@@ -16,7 +16,7 @@
   }
 
   // Return the extended hex code
-  return fullHex;
+  return "#" + fullHex;
 }; 
 
 
